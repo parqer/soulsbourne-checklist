@@ -1,3 +1,3 @@
-## Dark Souls Cheat Sheet
+## Soulsborne Checklist
 
-To view the cheat sheet [click here](https://parqer.github.io/soulsbourne-checklist/).
+To view the checklist [click here](https://parqer.github.io/soulsbourne-checklist/).
